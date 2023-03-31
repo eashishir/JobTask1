@@ -6,7 +6,7 @@ const Navbar = () => {
         <div>
             <div className="navbar bg-base-100">
                 <div className="flex-1">
-                    <a className="text-2xl text-red-500 font-extrabold px-16">CRYPTO <span className="text-black">GURU DEALS</span> </a>
+                    <a className="text-2xl text-orange-600 font-extrabold px-16">CRYPTO <span className="text-black">GURU DEALS</span> </a>
                     <div >
                         <ul className="menu menu-horizontal flex font-extrabold  justify-center pl-10">
                             <li><a>Home</a></li>
