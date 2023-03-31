@@ -13,7 +13,7 @@ const Intuch = () => {
                 <div className=" hero-content flex-col lg:flex-row-reverse">
                     <div className=" px-20 text-center lg:text-left">
                         <div className='flex'>
-                            <BiMessageAltCheck className='mt-2 text-5xl text-yellow-700' />
+                            <BiMessageAltCheck className='mt-2 text-5xl text-orange-600' />
                             <h1 className="text-5xl font-bold">Email us</h1>
 
                         </div>
@@ -22,7 +22,7 @@ const Intuch = () => {
 
                         
                         <div className='flex'>
-                            <TfiHeadphoneAlt className='mt-2 text-4xl m-1 text-yellow-700' />
+                            <TfiHeadphoneAlt className='mt-2 text-4xl m-1 text-orange-600' />
                             <h1 className="text-5xl font-bold">Chat with an agent</h1>
 
                         </div>
@@ -32,7 +32,7 @@ const Intuch = () => {
 
 
                         <div className='flex'>
-                            <BiMessageAltDots className='mt-2 text-5xl text-yellow-700' />
+                            <BiMessageAltDots className='mt-2 text-5xl text-orange-600' />
                             <h1 className="text-5xl font-bold">Whatsapp</h1>
 
                         </div>
@@ -41,7 +41,7 @@ const Intuch = () => {
 
                         
                         <div className='flex'>
-                            <BiPhoneCall className='mt-2 text-5xl text-yellow-700' />
+                            <BiPhoneCall className='mt-2 text-5xl text-orange-600' />
                             <h1 className="text-5xl font-bold">Call us</h1>
 
                         </div>

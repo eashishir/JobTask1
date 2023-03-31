@@ -8,6 +8,7 @@ import Footer from './pages/Footer';
 import FourthPage from './pages/FourthPage/FourthPage';
 
 import FromOurBlog from './pages/FromOurBlog/FromOurBlog';
+import Header from './pages/Header';
 import ImgNews from './pages/ImgNews/ImgNews';
 import Intuch from './pages/Intuch/Intuch';
 import Navbar from './pages/Navbar/Navbar';
@@ -16,7 +17,8 @@ import ShopByBrand from './pages/ShopByBrand/ShopByBrand';
 function App() {
   return (
     <div className="App">
-      <Navbar className="m-9"></Navbar>
+      
+      <Header></Header>
       
        <Banner></Banner>
        <ShopByBrand></ShopByBrand>
